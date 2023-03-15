@@ -1,4 +1,4 @@
-# habit_tracker_app
+# Task Tracker
 
 I made a simple tracker app with Flutter💙  where you can track your tasks or habits
 For database operations, I used the Hive package.
