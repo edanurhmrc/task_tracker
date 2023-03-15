@@ -1,6 +1,6 @@
 # habit_tracker_app
 
-I made a simple tracker app with Flutter  where you can track your tasks or habits
+I made a simple tracker app with Flutter💙  where you can track your tasks or habits
 For database operations, I used the Hive package.
 
 Note: [Hive](https://pub.dev/packages/hive) is a NoSQL database. It is a dart package used in Flutter applications to store and manipulate data locally.
